@@ -1,2 +1,6 @@
-# Tarfand.ha
-just another repository
+
+برای یادگیری و آموزش ساخت ربات ضد اسپم تلگرام به سایت پرمگ مراجعه کنید https://t.me/SaMaN_SaNstar2017
+
+ایدی سازنده: @SaMaN_SaNstar2017
+
+پیام رسان پشتبان: @MeGaNet_sbot
